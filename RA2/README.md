@@ -1,4 +1,4 @@
-# RA1 · Administració de serveis de directori, recursos i emmagatzematge
+# RA2 · Administració de serveis de directori, recursos i emmagatzematge
 
 Material de teoria actualitzat al curs 2026-27 (Windows Server 2025 i clients Windows 11), amb ordres de PowerShell, `cmd` i Linux, pràctiques guiades i preguntes de repàs.
 
@@ -18,3 +18,4 @@ Material de teoria actualitzat al curs 2026-27 (Windows Server 2025 i clients Wi
 - Les imatges dels diàlegs de Windows són **recreacions esquemàtiques** amb la interfície en castellà. Els números taronja coincideixen amb els passos del text.
 - Els diagrames de flux estan fets amb Mermaid i GitHub els mostra directament.
 - Les respostes de les preguntes de repàs estan amagades: clica **Respostes** per veure-les.
+- Cada tema també està en PDF a la carpeta [`pdf`](../pdf/) de l'arrel del repositori.
