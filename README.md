@@ -3,4 +3,5 @@
 
 ## Contingut
 
-- [RA1 · Administració de serveis de directori, recursos i emmagatzematge](RA1/README.md)
+- [RA2 · Administració de serveis de directori, recursos i emmagatzematge](RA2/README.md)
+- [PDF dels temes](pdf/)
